@@ -1,0 +1,1 @@
+/opt/bsc/bin/bsvbuild.sh

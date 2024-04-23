@@ -5,7 +5,7 @@ module mkTb ();       // 模块名: mkTb，该模块没有接口
       $display("Hello World!");  // 就像 Verilog 的 $display 那样，
                                  // 该语句不参与综合, 只是在仿真时打印
       $finish;                   // 仿真程序退出
-    endrule
+   endrule
 endmodule
 
 endpackage
